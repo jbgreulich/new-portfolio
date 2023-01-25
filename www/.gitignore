@@ -1,0 +1,30 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# debug
+npm-debug.log*
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# misc
+.DS_Store
+*.pem
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# typescript
+tsconfig.tsbuildinfo
+
+# vercel
+.vercel
+
+public/robots.txt
+public/sitemap.xml
+public/sitemap-0.xml

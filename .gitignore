@@ -1,0 +1,12 @@
+# javascript stuff
+build/
+node_modules/
+
+# osx
+.DS_Store
+
+# typescript
+tsconfig.tsbuildinfo
+
+# vscode
+.vscode
